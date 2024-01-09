@@ -9,7 +9,7 @@ body {
     /* border-radius: 16px;
     background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); */
     background-repeat: no-repeat;
-    background-color:  #070211;
+    background-color: #070211;
     margin: 50px auto;
 }
 
@@ -28,6 +28,58 @@ body {
     font-weight: 900;
     /* 131.944% */
 }
-.banner-content{
+
+.banner-content {
     padding: 230px 340px 170px 340px;
+}
+
+.happy {
+    text-align: center;
+}
+
+.happy-offer {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    padding-top: 0;
+
+}
+
+.happy-holiday {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.happy-all {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    padding-top: 16px;
+}
+
+.banner-two {
+    background-image: url('../resources/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    margin-top: 120px;
+}
+
+.banner-two-title {
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 900;
+    /* 137.5% */
+    letter-spacing: 7.04px;
+    width: 642px;
+
+}
+.banner-two-des{
+    
 }
