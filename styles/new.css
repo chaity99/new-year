@@ -238,4 +238,16 @@ body {
 .email-alingment {
     margin-left: 300px;
 }
-.foot
+
+.footer {
+    width: 1600px;
+    height: 609px;
+    flex-shrink: 0;
+    background: #070211;
+    margin-top:50px;
+    margin-left:50px;
+    margin-right: 50px;
+
+
+
+}
