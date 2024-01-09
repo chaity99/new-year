@@ -113,7 +113,128 @@ body {
 
 }
 
-.join{
+.join {
     background: black;
-    color:white ;
+    color: white;
+
+}
+
+.main {
+    align-items: left;
+}
+
+.main-sec {
+    padding-top: 1800px;
+    padding-left: 25px;
+    text-align: left;
+
+}
+
+.main-title1 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.main-title2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.main-des {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    padding-bottom: 50px;
+    /* 160% */
+}
+
+.img-set-one {
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 16px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+
+
+}
+
+.img-set-two {
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 16px;
+
+    padding-left: 20px;
+
+
+}
+
+.subscribe {
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.email {
+    width: 150px;
+    height: 150px;
+    padding: 80px 580px 0 580px;
+}
+
+.sub-title {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.sub-des {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
+
+.sub-email {
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 400px;
+    height: 30px;
+    border-radius: 50px;
+    background: #FFF;
+}
+
+.sub {
+    width: 200px;
+    height: 33px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    margin-left: -30px;
+}
+
+.email-alingment {
+    margin-left: 300px;
+    gap:0;
 }
